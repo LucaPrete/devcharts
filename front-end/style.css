@@ -1,0 +1,61 @@
+.container{
+	margin-top:100px;
+}
+
+h2, h3, p {
+	margin-left: 50px;
+	width: 820px;
+}
+
+h3 {
+	margin-top: 50px;
+}
+
+p {
+	margin-bottom: 0px;
+	text-align: justify;
+}
+
+div.title {
+	font-size: 15px;
+	margin-left: 45px;
+	margin-top: 40px;
+	font-weight:bold;
+}
+
+div.desc {
+	font-size: 12px;
+	margin-left: 45px;
+	margin-top: 5px;
+}
+
+div.chart {
+	width: 920px;
+	height: 300px;
+}
+
+div.table {
+	overflow: hidden;
+	width: 825px;
+	margin-left: 50px;
+	margin-bottom: 30px;
+}
+
+div.ctrl {
+	width: 920px;
+	height: 50px;
+	margin-bottom: 20px
+}
+
+div.ctrls-table {
+	display: none
+}
+
+.google-visualization-table-table {
+	width: 100%;
+}
+
+.google-visualization-table {
+	float: left !important;
+	width: 100% !important;
+}

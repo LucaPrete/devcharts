@@ -22,7 +22,7 @@ The tool is made of two main components:
 # Notes for back-end python files:
 Python was used because it's easy to use and read, and because it easly triggerable from the Linux CLI as well. Specially, it is very easy in this case, to schedule the collection of the data from - i.e. - the crontab.
 
-# Notes for index.html file:
+# Notes for the front-end - index.html file:
 The file can be extended, depending from
 - The general structure of the webpage
 - The CSS style applied to the page
